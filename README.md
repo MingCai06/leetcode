@@ -2,4 +2,8 @@
 =======
 # Leetcode
 
->>>>>>> c5ab3d8... Initial commit
+| #      | Title     | Solution     |
+| ---------- | :-----------:  | :-----------: |
+| 1     | Two sum     |      |
+| 2     | Add Two number     | Hash map     |
+| 3     | Longest Substring| slice window      |
