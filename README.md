@@ -11,3 +11,4 @@
 | 5     | Longest Palindromic Substring     | Expand Around Center |
 | 11    | Container With Most Water     | Dynamic 2 points |
 | 7     | Reverse Integer     |  |
+| 8     | String to Integer (atoi)     | Regular express   |
