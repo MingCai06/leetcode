@@ -12,3 +12,4 @@
 | 7     | Reverse Integer     |  |
 | 8     | String to Integer (atoi)     | Regular express   |
 | 13    | Roman to Integer     | if next > i num-i   |
+| 14    | Longest Common Prefix     | Vertical scanning   |
