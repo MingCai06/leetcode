@@ -13,3 +13,5 @@
 | 8     | String to Integer (atoi)     | Regular express   |
 | 13    | Roman to Integer     | if next > i num-i   |
 | 14    | Longest Common Prefix     | Vertical scanning   |
+| 15    | 3Sum     |avoid duplicate   |
+| 17    |  Letter Combinations of a Phone Number     |  |
