@@ -15,3 +15,5 @@
 | 14    | Longest Common Prefix     | Vertical scanning   |
 | 15    | 3Sum     |avoid duplicate   |
 | 17    |  Letter Combinations of a Phone Number     |  |
+| 19    | Remove Nth Node From End of List     |linked list   |
+| 20    |  Valid Parentheses     | repalce characters; stack data structure |
