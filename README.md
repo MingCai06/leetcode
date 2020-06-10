@@ -17,3 +17,5 @@
 | 17    |  Letter Combinations of a Phone Number     |  |
 | 19    | Remove Nth Node From End of List     |linked list   |
 | 20    |  Valid Parentheses     | repalce characters; stack data structure |
+| 21    |  Merge Two Sorted Lists     | linked list |
+| 22    |  Generate Parentheses     | backtracking |
