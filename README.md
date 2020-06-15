@@ -19,3 +19,5 @@
 | 20    |  Valid Parentheses     | repalce characters; stack data structure |
 | 21    |  Merge Two Sorted Lists     | linked list |
 | 22    |  Generate Parentheses     | backtracking |
+| 26    |  Remove Duplicates from Sorted Array     |  |
+| 28    |  Implement strStr()     |  |
