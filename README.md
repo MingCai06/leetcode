@@ -21,3 +21,4 @@
 | 22    |  Generate Parentheses     | backtracking |
 | 26    |  Remove Duplicates from Sorted Array     |  |
 | 28    |  Implement strStr()     |  |
+| 33    |  Search in Rotated Sorted Array     | binary search |
