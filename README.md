@@ -22,3 +22,5 @@
 | 26    |  Remove Duplicates from Sorted Array     |  |
 | 28    |  Implement strStr()     |  |
 | 33    |  Search in Rotated Sorted Array     | binary search |
+| 34    |  Find First and Last Position of Element in Sorted Array     | binary search (same question 278) |
+| 278    |  First Bad Version     | binary search (same question 34) |
