@@ -24,3 +24,4 @@
 | 33    |  Search in Rotated Sorted Array     | binary search |
 | 34    |  Find First and Last Position of Element in Sorted Array     | binary search (same question 278) |
 | 278    |  First Bad Version     | binary search (same question 34) |
+| 36    |  Valid Sudoku     | Hash table (defaultdict(set)) |
