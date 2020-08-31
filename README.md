@@ -25,3 +25,9 @@
 | 34    |  Find First and Last Position of Element in Sorted Array     | binary search (same question 278) |
 | 278    |  First Bad Version     | binary search (same question 34) |
 | 36    |  Valid Sudoku     | Hash table (defaultdict(set)) |
+| 485    |  Max Consecutive Ones     | Arrays |
+| 1295    |  Find Numbers with Even Number of Digits     | Arrays |
+| 977    |  Squares of a Sorted Array     | Arrays |
+| 1089    |  Duplicate Zeros     | Arrays |
+| 88    |   Merge Sorted Array     | Arrays |
+|     |   Remove Element     | Arrays |
